@@ -1,2 +1,10 @@
 # global_superstore
-Project : BI Desktop - Cryptocurrency Dashboard Skills : Power BI/TABLEAU, SQL, MongoDB, Visualisation Libraries, Python, Excel, Statistics  Concepts Used :  1- Clustering of CSV files into one table using Excel. 2- Neon effect in Power BI dashboard Visuals. 3- Forecasting/Prediction in Power BI. 4- Cryptocurrency Dataset used. (Bitcoin, Dogecoin, Ethereum) 5- Multiple Page Power BI Report. 6- Inter connected Multiple Page Dashboard. 7- Link a random Logo and provide Url to it to a launch a website.   I created this very simple Dashboard using Power BI. Which gives information regarding ups and downs in marketcapital of cryptocurrency; also shows open and close of it. I have linked two dashboard with the help of an arrow which works according to the instructions provided.
+I will like to share my journey here to let you all know me and my skills better!
+Created a Power BI - Dashboard using Kaggle's dataset.
+
+Project : BI Desktop - Dashboard
+Skills : Power BI/TABLEAU, SQL, MongoDB, Visualisation Libraries, Python, Excel, Statistics
+Concepts Used : Power BI, SQL, Excel, Data Processing, Data Visualisation.
+
+
+I created this very simple Dashboard using Power BI. When we click on at any point, it displays the information regarding specific task. As you can see many simple tasks are displayed in the dashboard and they all are inter-linked. It displays the sales information year-wise. Also shows the top selling products and the products which should be discontinued. Also indicates the regions according to yearly sales.
